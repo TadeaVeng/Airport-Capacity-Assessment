@@ -1,6 +1,6 @@
 # Description
 
-As part of a fictional expansion of Edinburgh Airport, I have been asked to assess whether the new baggage reclaim hall has sufficient capactity. The data files are the output of a simulation. They contain the number of bags on each belt as well as arrival and departure times of the individual passengers in the reclaim hall. 
+As part of a fictional expansion of Edinburgh Airport, I have been asked to assess whether the new baggage reclaim hall has sufficient capactity. 
 
 In the analysis I answer the following questions:
 1. Do the belts have suffucient capacity?
@@ -9,7 +9,7 @@ In the analysis I answer the following questions:
 
 The analysis is in the file capacity_analysis.ipynb and the results and recommendations are presented in the file findings.pdf.
 
-The data files *bags.csv* and *passengers.csv* contain the simulation output. A more detailed description of the data is given in both the capacity_analysis.ipynb and findings.pdf files.
+The data files are the output of a simulation. They contain the number of bags on each belt as well as arrival and departure times of the individual passengers in the reclaim hall. The data files *bags.csv* and *passengers.csv* contain the simulation output. A more detailed description of the data is given in both the capacity_analysis.ipynb and findings.pdf files.
 
 ### Dependencies:
 pandas \
