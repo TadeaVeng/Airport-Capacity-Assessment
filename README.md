@@ -9,7 +9,7 @@ In the analysis I answer the following questions:
 
 The analysis is in the file capacity_analysis.ipynb and the results and recommendations are presented in the file findings.pdf.
 
-The data files are the output of a simulation. They contain the number of bags on each belt as well as arrival and departure times of the individual passengers in the reclaim hall. The data files *bags.csv* and *passengers.csv* contain the simulation output. A more detailed description of the data is given in both the capacity_analysis.ipynb and findings.pdf files.
+The data files are the output of a simulation. The first one *bags.csv* contains the number of bags on each belt while the second file *passengers.csv* contain the arrival and departure times of the individual passengers in the reclaim hall. A more detailed description of the data is given in both the capacity_analysis.ipynb and findings.pdf files.
 
 ### Dependencies:
 pandas \
